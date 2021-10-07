@@ -5,7 +5,7 @@
 
 - In 2009, joined CyberAgent, Inc. Flash engineer, iOS engineer
 
-- in 2006, joined IMGRC.inc, interaction designer and Flash engineer
+- in 2006, joined IMGRC.inc, interaction designer, Flash engineer
 
 - Graduated from Musashino Art University, Department of Design Information, majoring in interaction design, UI and UX design.
 
