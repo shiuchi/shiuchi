@@ -1,4 +1,3 @@
-##### Shiuchi
 ## iOS Engineer, Design technologist
 
 - In 2018, joined Mercari Inc. iOS Engineer, Design technologist, working on DesignSystem!
