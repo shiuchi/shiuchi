@@ -1,6 +1,6 @@
 ## iOS Engineer, Design technologist
 
-- In 2018, joined Mercari Inc. iOS Engineer, Design technologist, working on DesignSystem!
+- In 2019, joined Mercari Inc. iOS Engineer, Design technologist, working on DesignSystem!
 
 - In 2009, joined CyberAgent, Inc. Flash engineer, iOS engineer
 
